@@ -1,0 +1,15 @@
+# package directories
+node_modules
+
+# IDE
+.idea/
+
+# Test output
+test-reports
+coverage
+
+# Local configs
+config/**/*local*.yml
+
+# Front-End
+dist
